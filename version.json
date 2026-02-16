@@ -1,4 +1,6 @@
 {
   "version": "1.0.1",
-  "download_url": "https://raw.githubusercontent.com/Nilesh-VChavan/Update/main/KiranmalaDukan.exe"
+  "app_name": "KiranaStore",
+  "mandatory": false,
+  "release_notes": "Minor bug fixes and performance improvements"
 }
